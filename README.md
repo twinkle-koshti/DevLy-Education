@@ -48,7 +48,7 @@ Optional: `ollama serve` (AI assistant referenced in `start_project.bat`), SMTP 
 Create a `.env` inside `backend/` with at least:
 ```env
 PORT=5000
-MONGO_URI=mongodb+srv://vigljku_db_user:wYS5YNCbFSpu8G2k@mernauth.ysoggzy.mongodb.net/mern_auth?retryWrites=true&w=majority&appName=mernauth
+MONGO_URI=mongodb+srv://username:Password@mernauth.ysoggzy.mongodb.net/mern_auth?retryWrites=true&w=majority&appName=mernauth
 JWT_SECRET=replace-with-strong-secret
 
 # Optional for OTP/email flows
@@ -154,6 +154,7 @@ From any package:
 3. Add new data JSON files under `backend/data/` and rerun `node seed.js`.
 4. Extend Express routes under `backend/routes/`; register them in `server.js`.
 5. Before PRs, run lint/tests per package and describe how to reproduce.
+
 
 Happy building! 🎓💻
 
