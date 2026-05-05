@@ -155,6 +155,65 @@ From any package:
 4. Extend Express routes under `backend/routes/`; register them in `server.js`.
 5. Before PRs, run lint/tests per package and describe how to reproduce.
 
+## ScreenShots
+USER SIDE:
 
-Happy building! 🎓💻
+1)	Registration :
+   <img width="712" height="323" alt="image" src="https://github.com/user-attachments/assets/a23fdc20-8632-4c03-af9f-9117c8ab6400" />
+
+2)	OTP Verification :
+   <img width="651" height="318" alt="image" src="https://github.com/user-attachments/assets/c8e522a4-eecb-4f6b-b620-048c77844293" />
+
+3)	Login :
+   <img width="654" height="316" alt="image" src="https://github.com/user-attachments/assets/cdab1f1c-1151-4adb-8e32-7e2dd4ab642c" />
+
+4)	Home :
+   <img width="799" height="434" alt="image" src="https://github.com/user-attachments/assets/5575484b-db85-4d63-9b15-7721f28d1ec4" />
+
+5)	Tutorials :
+   <img width="682" height="329" alt="image" src="https://github.com/user-attachments/assets/d820d45e-a72a-40c7-9fee-aa8472018fa1" />
+
+6)	AI Professor :
+   <img width="694" height="369" alt="image" src="https://github.com/user-attachments/assets/0afe71a7-67a7-4ce3-9486-b09d1c9722b2" />
+
+7) Test :
+   <img width="851" height="461" alt="image" src="https://github.com/user-attachments/assets/15741184-1c86-4b23-be80-66a08afdf303" />
+
+8)	Edit Profile :
+   <img width="436" height="496" alt="image" src="https://github.com/user-attachments/assets/2b479de6-ce7d-4382-b653-dfdc1e9bdb93" />
+
+9)	Mcq Test :
+    <img width="797" height="527" alt="image" src="https://github.com/user-attachments/assets/0e5b1a39-524c-464c-bb51-ed8944281b4d" />
+
+10) Test Submittion:
+    <img width="721" height="587" alt="image" src="https://github.com/user-attachments/assets/4d0fb2e5-e7c1-4b67-a4e5-b1f2c5f54a4d" />
+
+ADMIN SIDE :
+
+1)	Admin Login :
+   <img width="810" height="410" alt="image" src="https://github.com/user-attachments/assets/8d574524-d838-4413-af02-b91d9fc4d0bb" />
+
+2)	 Dashboard :
+   <img width="839" height="485" alt="image" src="https://github.com/user-attachments/assets/c23adde8-5b71-41cf-85f5-baca0a33151e" />
+
+3)	Student List:
+   <img width="894" height="413" alt="image" src="https://github.com/user-attachments/assets/928be828-ab1f-4bcf-8b74-6ff1cd891c73" />
+
+4)	Appoint Professor :
+   <img width="626" height="422" alt="image" src="https://github.com/user-attachments/assets/d961be43-6252-4ca8-aab5-bb919ff8b588" />
+
+5) Professor List:
+   <img width="854" height="434" alt="image" src="https://github.com/user-attachments/assets/f80a8d97-a2e1-4617-9d6a-5fc4cafd15f1" />
+
+Professor Side:
+
+1) Professor Dashboard:
+  <img width="963" height="439" alt="image" src="https://github.com/user-attachments/assets/51352c31-f8dd-4ef6-a219-98174ab5ebaf" />
+
+2) Professor Manage Test:
+   <img width="963" height="374" alt="image" src="https://github.com/user-attachments/assets/8d22974c-a07e-4cd8-99d4-b8ed0faf31e8" />
+
+
+# AUTHOR
+Devloped by Twinkle Koshti
 
